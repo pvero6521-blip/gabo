@@ -5,7 +5,7 @@ from typing import Dict, List, Tuple
 
 # ── Página ────────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Predictor de Siembra — Morelos 2026",
+    page_title="Predictor de Siembra — Morelos 2026 - Por Gabriel Pérez Neri",
     page_icon="🌱",
     layout="centered"
 )
